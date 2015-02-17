@@ -26,6 +26,10 @@ Buscar una melodía sencilla con 4-5 notas
 
 ## Matemáticas
 
+* Medida de distancias: con sensor de distancia
+* Cálculo de áreas: con sensor de distancia y servo que rota 90º
+* Determinación de pi: medimos la distancia con ultrasonidos, medimos la longitud de la rueda y las rotaciones hechas. 
+
 ## Física
 
 Con 2 sensores de infrarrojos medimos diferencias de tiempos al paso para 
@@ -34,7 +38,3 @@ Con 2 sensores de infrarrojos medimos diferencias de tiempos al paso para
 * Caída libre
 * Imán por tubo de cobre
 
-### Velocidades
-
-
-# Materiales
