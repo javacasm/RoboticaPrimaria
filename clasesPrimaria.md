@@ -46,8 +46,16 @@ Presentamos el sensor siguelíneas y los mueve muy rápido para ver la zona en l
 
 ## Clase 4
 
+Utilizamos sensores de proximidad Infrarrojos:
+* Sensor digital
+* Sensor analógico
 
 ### Proyectos
 
+* Detección del suelo
 * Hucha
-* ATM
+
+## Clase 5
+
+Sensor analógico de proximidad infrarrojo :
+* Calibración de colores
