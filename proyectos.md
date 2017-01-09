@@ -35,7 +35,7 @@ Utilizan un robot similar a [este](http://store.bqreaders.com/es/printbot-renacu
 
 * SigueLuz y huyeLuz: robots que buscan la luz y que la esquivan
 * Robot notecaigas: robot que explora el borde de la mesa
- 
+
 ## Física
 
 * Estación meteorologica: medida de la temperatura y humedad
@@ -46,7 +46,7 @@ Utilizan un robot similar a [este](http://store.bqreaders.com/es/printbot-renacu
 
 * Medida de distancias: con sensor de distancia
 * Cálculo de áreas: con sensor de distancia y servo que rota 90º
-* Determinación de pi: medimos la distancia con ultrasonidos, medimos la longitud de la rueda y las rotaciones hechas. 
+* Determinación de pi: medimos la distancia con ultrasonidos, medimos la longitud de la rueda y las rotaciones hechas.
 
 ## Física
 
@@ -62,8 +62,22 @@ Con 2 sensores de infrarrojos medimos diferencias de tiempos, lo que nos permite
 Algunos juegos en los que se usan componentes electrónicos junto con recortables
 
 Ejemplos:
- 
+
 * [Toribio](http://diwo.bq.com/bq-invento-toribio-el-pulsabot/)
 * [Reflejos](http://diwo.bq.com/bq-invento-reflejos/)
 * [Casa embrujada](http://diwo.bq.com/bq-invento-especial-halloween/)
 * [Memoria](http://diwo.bq.com/bq-invento-memoria/)
+
+## Ideas
+
+Comentar con
+@jcarolinares @jolaus @Movilujo @jo_pujol @Alfsan04 @leobotmanuel Antonio recio, Antonio Fernández
+
+* Sigue Ritmo (detecta golpes) y baila o hace música
+* Pinball
+* Hucha cuenta dinero
+* Máquina expendedora (Hucha y expendedor)
+* Belén animatronico
+* Reproducción de de experimentos físicos (péndulo, caída libre, rampas)
+* Medida de tiempo de reacción
+* Espantapájaros
