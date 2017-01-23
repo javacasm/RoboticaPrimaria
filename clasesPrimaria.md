@@ -57,5 +57,14 @@ Utilizamos sensores de proximidad Infrarrojos:
 
 ## Clase 5
 
+* Potenciómetro como entrada analógica
+* Salida analógica en leds
+
+* Numeros aleatorios y brillo aleatorio en led
+
+## Clase 6
+
+* Uso del potenciómetro como calibración
+
 Sensor analógico de proximidad infrarrojo :
 * Calibración de colores
